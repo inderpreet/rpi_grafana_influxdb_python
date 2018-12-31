@@ -1,0 +1,10 @@
+{
+  "name": "InfluxDB",
+  "type": "influxdb",
+  "url": "http://influxdb:8086",
+  "access": "proxy",
+  "user": "admin",
+  "password": "admin",
+  "database": "hackaday",
+  "basicAuth": false
+}
